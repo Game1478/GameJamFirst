@@ -1,0 +1,3 @@
+1.Use WASD to move red player & press left shift to jump
+2.Use the arrows to move yellow player & press right shift to jump
+3.Press IJKL to change your view
